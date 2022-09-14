@@ -1,8 +1,8 @@
 import styles from '../styles/About.module.css'
 import Construction from '../components/construction'
-import Aboutheader from '../components/aboutheader'
-import Aboutcontent from '../components/aboutcontent'
-import Aboutlist from '../components/aboutlist'
+import Aboutheader from '../components/aboutHeader'
+import Aboutcontent from '../components/aboutContent'
+import Aboutlist from '../components/aboutList'
 import Maincontact from '../components/maincontact';
 import Head from 'next/head'
 function About() {
