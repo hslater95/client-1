@@ -1,0 +1,27 @@
+.construction {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    transition-property: font-size;
+    transition-duration: .1s;
+    padding-bottom: 200px;
+}
+
+@media(max-width: 600px) {
+    .construction {
+        font-size: 22px;
+    }
+}
+@media(max-width: 450px) {
+    .construction {
+        font-size: 16px;
+    }
+}
+@media(max-width: 300px) {
+    .construction {
+        font-size: 12px;
+    }
+}

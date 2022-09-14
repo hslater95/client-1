@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    opacity: .9;
+}
+.text {
+    font-size: 18px;
+    opacity: .9;
+}
+
