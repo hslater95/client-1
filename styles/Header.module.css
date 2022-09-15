@@ -9,7 +9,7 @@
     border-bottom: 3px solid white;
     transition-property: font-size;
     transition-duration: .1s;
-    opacity: .8;
+    opacity: .86;
 }
 
 @media (max-width: 400px) {
