@@ -10,14 +10,26 @@
     padding-bottom: 200px;
 }
 
-@media(max-width: 600px) {
+@media(max-width: 800px) {
     .construction {
         font-size: 22px;
     }
 }
+
+@media(max-width: 700px) {
+    .construction {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 600px) {
+    .construction {
+        font-size: 18px;
+    }
+}
 @media(max-width: 450px) {
     .construction {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 @media(max-width: 300px) {
