@@ -7,9 +7,7 @@ function Navlogo() {
     const logo = "<Hasan Slater />";
     let logo_styles = `${styles.logo}`;
     let logo_classes = "text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 bg-clip-text"
-    let total_styles = `${logo_styles} ${logo_classes}`;
-    console.log(el.current);
-    
+    let total_styles = `${logo_styles} ${logo_classes}`;    
     useEffect(
         () => {
             let flag = 1;
