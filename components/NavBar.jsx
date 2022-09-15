@@ -4,7 +4,6 @@ import Navtabs from '../components/Navtabs';
 import Emptyspace from '../components/emptyspace';
 
 function Navbar() {
-    console.log('hello navigation bar!');
     return (
     <nav className={styles.navbar}>
         <Navlogo />
